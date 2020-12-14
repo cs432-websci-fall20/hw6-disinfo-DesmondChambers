@@ -109,6 +109,8 @@ Questions to answer:
 * How many accounts were posting links for each domain?  
   * To answer this question, create a bar chart showing the number of accounts for each domain.
 
+I am having issues with my labtop namely vscode and jupyter notebook. When I run the twitter api code which I have run many times before I received an error. "AttributeError: module 'tweepy' has no attribute 'OAuthHandler'". After doing some research I tried import the OAuthHandler directly from tweepy but this still didnt work. Before I start having these issues I got some tweets but didnt save them as I were only testing. 
+
 ### Q4
 *(2 points)*
 
